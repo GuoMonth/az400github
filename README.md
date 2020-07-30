@@ -1,1 +1,2 @@
 # AZ400演示用
+[![Build Status](https://dev.azure.com/guoshengmscloud/Q1AZ-400/_apis/build/status/GuoMonth.az400github?branchName=master)](https://dev.azure.com/guoshengmscloud/Q1AZ-400/_build/latest?definitionId=5&branchName=master)
