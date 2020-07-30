@@ -20,7 +20,7 @@ steps:
 
 - template: ./test.yml
   parameters: 
-      name: template test file
-      testFile: ref success!
+    name: template test file
+    testFile: ref success!
 
 
